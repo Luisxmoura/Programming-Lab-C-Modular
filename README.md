@@ -56,3 +56,7 @@ This repository showcases the ability to audit third-party code, implement secur
 
 Topics (Tags):
 c-programming software-refactoring bug-fixing modular-programming data-persistence cli-application programming-laboratory
+
+👨‍💻 Author
+Luis Moura
+Computer Engineering Student
